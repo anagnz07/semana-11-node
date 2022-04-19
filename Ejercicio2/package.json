@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "description": "Crea un programa que recoja a través de sus argumentos la dirección de una imagen de forma que cree, en el mismo directorio que está, una carpeta `samples` con diferentes variaciones de la misma (blanco y negro, diversos tamaños, filtros...). Puedes usar la librería [sharp](https://www.npmjs.com/package/sharp).",
+  "main": "mian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "sharp": "^0.30.4"
+  }
+}
